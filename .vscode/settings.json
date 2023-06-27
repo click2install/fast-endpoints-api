@@ -1,0 +1,7 @@
+{
+  "dotnet.defaultSolution": "FastEndpointsApi.sln",
+  "cSpell.words": [
+    "hasher",
+    "Npgsql"
+  ]
+}
